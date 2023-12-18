@@ -9,4 +9,5 @@
 <ul>
   <li>React</li>
   <li>Typescript</li>
+  <li>CSS</li>
 </ul>
